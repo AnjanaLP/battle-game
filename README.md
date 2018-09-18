@@ -1,6 +1,6 @@
 # Battle Game
 
-##User Stories
+## User Stories
 ```
 As two Players,
 So we can play a personalised game of Battle,
@@ -39,10 +39,6 @@ So I can Lose a game of Battle,
 I want to see a 'Lose' message if I reach 0HP first
 ```
 
-##Technologies Used
+## Technologies Used
 
-Cabybara
-HTML
-Rspec
-Ruby
-Sinatra
+Cabybara, HTML, Rspec, Ruby, Sinatra
